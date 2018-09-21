@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="snippet_thumb_height">100dp</dimen>
+    <dimen name="snippet_thumb_width">100dp</dimen>
+</resources>
